@@ -1,1 +1,9 @@
 
+Transformer:: Attention All you need will never be completed without help of following peoples and their blogs/github.
+
+## Blog-Post
+https://www.michaelphi.com/illustrated-guide-to-transformers/ 
+
+## Github
+https://github.com/bentrevett/pytorch-seq2seq/blob/master/6%20-%20Attention%20is%20All%20You%20Need.ipynb
+https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/Pytorch/more_advanced/transformer_from_scratch/transformer_from_scratch.py
